@@ -1,0 +1,4 @@
+arguments
+gaussian_renderer
+lpipsPyTorch
+scene
