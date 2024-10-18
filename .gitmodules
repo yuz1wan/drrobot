@@ -1,3 +1,0 @@
-[submodule "gaussian-splatting"]
-	path = gaussian-splatting
-	url = git@github.com:graphdeco-inria/gaussian-splatting.git
