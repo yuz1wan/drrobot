@@ -33,6 +33,19 @@ pip install tensorboard ray tqdm mujoco open3d plyfile pytorch-kinematics random
 
 The most tricky dependency of our codebase is [gsplat](https://github.com/nerfstudio-project/gsplat), which is used for rasterizing Gaussians. We recommend visiting their installation instructions if the plain `pip install` doesn't work. 
 
+# Real-Time Robot Reconstruction Demo
+
+To launch the real-time reconstruction demo, you may use the pre-trained robot model that we include in this repo by simply running
+```
+python gradio_app_realtime.py --model_path ./ur5
+```
+
+<div align="center">
+  <img src="assets/gradio_image.png" style="width:70%" />
+</div>
+
+In this demo, you may tweak with MuJoCo robot parameters through the sliders, and the 3D Gaussian robot will be optimized in real-time to reconstruct the ground-truth robot pose. 
+
 # Training
 
 The training is divided into two phases
