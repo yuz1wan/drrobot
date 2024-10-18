@@ -2,7 +2,7 @@
 
 # Differentiable Robot Rendering
 
-[Project Page](https://drrobot.cs.columbia.edu/) | [Video](https://drrobot.cs.columbia.edu/assets/videos/video.mp4) | [Arxiv (TODO)]([TODO])
+[Project Page](https://drrobot.cs.columbia.edu/) | [Video](https://drrobot.cs.columbia.edu/assets/videos/video.mp4) | [Arxiv ]([https://arxiv.org/abs/2410.13851])
 
 </div>
 
