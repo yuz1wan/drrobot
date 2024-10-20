@@ -2,6 +2,9 @@
 
 # Differentiable Robot Rendering
 
+ [Ruoshi Liu*](https://ruoshiliu.github.io/)<sup>1</sup>, [Alper Canberk*](https://alpercanberk.github.io/)<sup>1</sup>, [Shuran Song](https://basile.be/about-me/)<sup>1,2</sup>, [Carl Vondrick](https://www.cs.columbia.edu/~vondrick/)<sup>1</sup> <br>
+ <sup>1</sup>Columbia University, <sup>2</sup>Stanford University, <sup>*</sup> Equal Contribution
+
 [Project Page](https://drrobot.cs.columbia.edu/) | [Video](https://drrobot.cs.columbia.edu/assets/videos/video.mp4) | [Arxiv](https://arxiv.org/abs/2410.13851)
 
 </div>
