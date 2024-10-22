@@ -106,15 +106,14 @@ This script will automatically run through all three stages of training. The lat
 
 To visualize the model training process, you may run `tensorboard --logdir output/`
 
+## TODO 🚸
+
+- [ ] Fix the bug that tampers with training of some robots midway through training, some parameters were changed during the code clean-up, so please bear with us while we try to address this
 
 ## Acknowledgements 🙏
 
 - Our codebase is heavily built on top of [3D Gaussians](https://github.com/graphdeco-inria/gaussian-splatting) and [4D Gaussians](https://github.com/hustvl/4DGaussians)
 - Our renderer uses [Gsplat](https://github.com/nerfstudio-project/gsplat)
 - Many robot models that we use come directyl from [Mujoco Menagerie](https://github.com/google-deepmind/mujoco_menagerie), we thank them for providing a diverse and clean repository of robot models. 
+- [Pytorch Kinematics](https://github.com/UM-ARM-Lab/pytorch_kinematics), which allows us to differentiate the forward kinematics of the robot out-of-the-box 
 
-
-
-## TODO 🚸
-
-- [ ] Fix the bug that tampers with training of some robots midway through training, some parameters were changed during the code clean-up, so please bear with us while we try to address this
